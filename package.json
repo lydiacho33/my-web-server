@@ -1,0 +1,19 @@
+{
+  "name": "my-web-server",
+  "version": "1.0.0",
+  "description": "For learning purposes",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lydiacho33/my-web-server.git"
+  },
+  "author": "Lydia Cho",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/lydiacho33/my-web-server/issues"
+  },
+  "homepage": "https://github.com/lydiacho33/my-web-server#readme"
+}
